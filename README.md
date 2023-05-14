@@ -1,1 +1,1 @@
-# ProjectModeQt6
+# ProjectModeQt6 For LCWidget
